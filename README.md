@@ -83,7 +83,6 @@
 
 **WebView:**  
 ![WKWebView](https://img.shields.io/badge/WKWebView-FA7343?style=for-the-badge)
-![UIViewRepresentable](https://img.shields.io/badge/UIViewRepresentable-FA7343?style=for-the-badge)
 
 ## ⚙️ Установка и запуск
 
