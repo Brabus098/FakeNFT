@@ -14,6 +14,7 @@
   <img src="https://github.com/Brabus098/FakeNFT/raw/main/NftCollection.png" width="200" alt="Коллекция NFT">
   <img src="https://github.com/Brabus098/FakeNFT/raw/main/NftLent.png" width="200" alt="Лента NFT">
   <img src="https://github.com/Brabus098/FakeNFT/raw/main/PaymentMethod.png" width="200" alt="Способы оплаты">
+  <img src="https://github.com/Brabus098/FakeNFT/raw/main/Profile.png" width="200" alt="Профиль">
 </p>
 
 ## 🚀 Возможности
