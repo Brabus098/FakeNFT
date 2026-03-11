@@ -9,13 +9,13 @@
 **FakeNFT** - современное iOS-приложение для просмотра и имитации покупки NFT-токенов. Каталог коллекций, избранное, корзина, рейтинг пользователей и персонализированный профиль в едином стиле.
 
 <p align="center">
-  <img src="https://github.com/Brabus098/FakeNFT/raw/main/Cart.png" width="200" alt="Корзина">
-  <img src="https://github.com/Brabus098/FakeNFT/raw/main/MyNFT.png" width="200" alt="Мои NFT">
+  <img src="https://github.com/Brabus098/FakeNFT/raw/main/NftLent.png" width="200" alt="Лента NFT">
   <img src="https://github.com/Brabus098/FakeNFT/raw/main/NftCollection.png" width="200" alt="Коллекция NFT">
+  <img src="https://github.com/Brabus098/FakeNFT/raw/main/MyNFT.png" width="200" alt="Мои NFT">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Brabus098/FakeNFT/raw/main/NftLent.png" width="200" alt="Лента NFT">
+    <img src="https://github.com/Brabus098/FakeNFT/raw/main/Cart.png" width="200" alt="Корзина">
   <img src="https://github.com/Brabus098/FakeNFT/raw/main/PaymentMethod.png" width="200" alt="Способы оплаты">
   <img src="https://github.com/Brabus098/FakeNFT/raw/main/Profile.png" width="200" alt="Профиль">
 </p>
